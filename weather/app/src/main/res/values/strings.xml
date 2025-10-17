@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Weather</string>
+    <string name="city_hint">Nhập tên thành phố</string>
+    <string name="get_weather">Xem Thời Tiết</string>
+    <string name="menu_about">Giới thiệu ứng dụng</string>
+    <string name="about_message">Ứng dụng My Weather\n\nPhiên bản 1.0\n\nỨng dụng giúp bạn xem thông tin thời tiết của các thành phố trên thế giới.</string>
+    <string name="about_title">Giới thiệu</string>
+    <string name="temperature">Nhiệt độ</string>
+    <string name="feels_like">Cảm giác như</string>
+    <string name="humidity">Độ ẩm</string>
+    <string name="wind_speed">Tốc độ gió</string>
+    <string name="description">Mô tả</string>
+    <string name="pressure">Áp suất</string>
+    <string name="select_city">Chọn thành phố</string>
+    <string name="weather_info">Thông tin thời tiết</string>
+    <string name="error_city">Vui lòng nhập tên thành phố</string>
+    <string name="error_network">Lỗi kết nối mạng</string>
+    <string name="loading">Đang tải...</string>
+
+    <string-array name="cities">
+        <item>Hà Nội</item>
+        <item>Hồ Chí Minh</item>
+        <item>Đà Nẵng</item>
+        <item>Hải Phòng</item>
+        <item>Cần Thơ</item>
+        <item>Tokyo</item>
+        <item>London</item>
+        <item>New York</item>
+        <item>Paris</item>
+        <item>Seoul</item>
+    </string-array>
+</resources>

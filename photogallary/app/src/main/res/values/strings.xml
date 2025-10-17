@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">photo gallary</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="photo_description">Photo</string>
+    <string name="full_photo">Full Photo</string>
+    <string name="close">Close</string>
+</resources>

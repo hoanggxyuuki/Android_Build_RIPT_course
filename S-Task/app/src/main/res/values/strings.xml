@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">S-Task</string>
+    <string name="add_task">Thêm công việc</string>
+    <string name="edit_task">Sửa công việc</string>
+    <string name="delete_task">Xóa công việc</string>
+    <string name="task_added">Đã thêm công việc</string>
+    <string name="task_updated">Đã cập nhật công việc</string>
+    <string name="task_deleted">Đã xóa công việc</string>
+    <string name="task_completed">Đã hoàn thành</string>
+    <string name="task_uncompleted">Chưa hoàn thành</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+    <string name="menu_about">Giới thiệu ứng dụng</string>
+    <string name="menu_delete_all">Xóa tất cả</string>
+    <string name="about_message">S-Task - Ứng dụng quản lý công việc cá nhân\n\nPhiên bản: 1.0\nPhát triển bởi: hoanggxyuuki</string>
+    <string name="confirm_delete">Bạn có chắc muốn xóa công việc này?</string>
+    <string name="confirm_delete_all">Bạn có chắc muốn xóa tất cả công việc?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+</resources>

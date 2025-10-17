@@ -29,3 +29,13 @@
     <img src="https://img.shields.io/badge/View-Preview-blue?style=for-the-badge&logo=image" alt="View Preview">
   </a>
 </p>
+
+## App S-Task
+<p>
+  <a href="https://github.com/hoanggxyuuki/Android_Build_RIPT_course/releases/download/apk-four/s-task.apk">
+    <img src="https://img.shields.io/badge/Download-APK-brightgreen?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+  <a href="S-Task/image.png">
+    <img src="https://img.shields.io/badge/View-Preview-blue?style=for-the-badge&logo=image" alt="View Preview">
+  </a>
+</p>
